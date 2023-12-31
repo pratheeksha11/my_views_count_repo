@@ -1,7 +1,7 @@
 ## [🔙 my_views_count_repo](https://github.com/pratheeksha11/my_views_count_repo)
 
-### :octocat: [DataWisdom](https://github.com/pratheeksha11/DataWisdom)
-![Image of my_views_count_repo](https://github.com/pratheeksha11/my_views_count_repo/blob/master/graph/714109923/large/year.png)
+### :octocat: [pratheeksha11](https://github.com/pratheeksha11/pratheeksha11)
+![Image of my_views_count_repo](https://github.com/pratheeksha11/my_views_count_repo/blob/master/graph/456224675/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -26,7 +26,7 @@
 			<code>1</code>
 		</td>
 		<td>
-			<code>19</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of my_views_count_repo](https://github.com/pratheeksha11/my_views_count_repo/blob/master/svg/714109923/badge.svg)](https://github.com/pratheeksha11/my_views_count_repo/blob/master/readme/714109923/week.md)
+[![Image of my_views_count_repo](https://github.com/pratheeksha11/my_views_count_repo/blob/master/svg/456224675/badge.svg)](https://github.com/pratheeksha11/my_views_count_repo/blob/master/readme/456224675/week.md)
 ```readme
-[![Image of my_views_count_repo](https://github.com/pratheeksha11/my_views_count_repo/blob/master/svg/714109923/badge.svg)](https://github.com/pratheeksha11/my_views_count_repo/blob/master/readme/714109923/week.md)
+[![Image of my_views_count_repo](https://github.com/pratheeksha11/my_views_count_repo/blob/master/svg/456224675/badge.svg)](https://github.com/pratheeksha11/my_views_count_repo/blob/master/readme/456224675/week.md)
 ```
 ### Header
-# DataWisdom [<img alt="Image of my_views_count_repo" src="https://github.com/pratheeksha11/my_views_count_repo/blob/master/graph/714109923/small/year.png" height="20">](https://github.com/pratheeksha11/my_views_count_repo/blob/master/readme/714109923/year.md)
+# pratheeksha11 [<img alt="Image of my_views_count_repo" src="https://github.com/pratheeksha11/my_views_count_repo/blob/master/graph/456224675/small/year.png" height="20">](https://github.com/pratheeksha11/my_views_count_repo/blob/master/readme/456224675/year.md)
 ```readme
-# DataWisdom [<img alt="Image of my_views_count_repo" src="https://github.com/pratheeksha11/my_views_count_repo/blob/master/graph/714109923/small/year.png" height="20">](https://github.com/pratheeksha11/my_views_count_repo/blob/master/readme/714109923/year.md)
+# pratheeksha11 [<img alt="Image of my_views_count_repo" src="https://github.com/pratheeksha11/my_views_count_repo/blob/master/graph/456224675/small/year.png" height="20">](https://github.com/pratheeksha11/my_views_count_repo/blob/master/readme/456224675/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
